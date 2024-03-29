@@ -1,0 +1,47 @@
+.tauri-regular {
+    font-family: "Tauri", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  
+  .tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .container{
+    background-color: aqua;
+   /* width: 500px;
+    height: 200px;*/
+  }
+
+  .container-fluid{
+    /*background-color: coral;
+    width: 500px;
+    height: 100px;*/
+  }
+
+  .row{
+    background-color: rgb(237, 227, 169);
+    margin: 5px;
+  }
+  .col{
+    background-color: rgb(230, 223, 211);
+    margin: 5px;
+  }
+  .card-img-top {
+    width: 200px; 
+    height: auto; 
+  }
+.btn{
+  width: 50%;
+}
